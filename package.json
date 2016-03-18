@@ -1,6 +1,6 @@
 {
   "name": "@irv/react-chartjs",
-  "version": "0.7.3",
+  "version": "1.0.1",
   "description": "react charting components using the chartjs lib",
   "main": "index.js",
   "scripts": {
