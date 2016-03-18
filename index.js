@@ -5,5 +5,6 @@ module.exports = {
   Pie: require('./lib/pie'),
   PolarArea: require('./lib/polar-area'),
   Radar: require('./lib/radar'),
-  createClass: require('./lib/core').createClass
+  createClass: require('./lib/core').createClass,
+  DoughnutInnerText: require('./lib/doughnutinnertext')
 };
